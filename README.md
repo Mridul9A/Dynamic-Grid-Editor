@@ -31,7 +31,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dynamic-grid-editor.git
+   git clone https://github.com/Mridul9A/Dynamic-Grid-Editor.git
    ```
 
 2. Navigate to the project directory:
