@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Dynamic Grid Editor</h1>
+      <h1>Dynamic Grid</h1>
       <Toolbar grid={grid} setGrid={setGrid} setError={handleError} />
       {error && <div className="error-notification">{error}</div>}
       <Grid grid={grid} toggleCell={toggleCell} />
